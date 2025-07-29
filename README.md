@@ -1,6 +1,7 @@
 # old-divertduels
 Old Minecraft Duels 2v2 project. 
 
-Goes back to 2017
 
-PS: The code quality is atrocious, looking back I wanna slap myself.
+This is a luckily recovered 2014 project.
+
+PS: The code quality is atrocious, looking back I want to slap myself.
